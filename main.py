@@ -2,45 +2,45 @@
 print("what is your name")
 n = input ()
 print("kia ora " + n )
-print("what is youtube in maaori")
+print("what is hello in maaori")
 answer = input ()
 answer = answer .lower()
 #13/5 bradyn answer: make it were if they say yes or no it has a respond
-if answer == "tiriata": 
+if answer == "kia ora": 
  print("you are correct")
 else:
   print(" sorry you are wrong")
 #18/5 bradyn:ask them there seacond question 
-print("what is gaming in maaori")
+print("what is good bye in maaori")
 answer = input ()
 answer = answer .lower()
-if answer == "petipeti": 
+if answer == "kia ora": 
  print("you are correct")
 else:
   print(" sorry you are wrong")
 #18/5 bradyn:ask them there third question
-print("what is twitter in maaori")
+print("what is family in maaori")
 answer = input ()
 answer = answer .lower()
-if answer == "tihau": 
+if answer == "whanau": 
  print("you are correct")
 else:
   print(" sorry you are wrong")
 #18/5 bradyn:ask them there fourth question
-print("what is battery in maaori")
+print("what is friend in maaori")
 answer = input ()
 answer = answer .lower()
-if answer == "puhiko": 
+if answer == "hoa": 
  print("you are correct")
 else:
   print(" sorry you are wrong")
 #18/5 bradyn:ask them there fifth question
-print("what is wifi in maaori")
+print("what is fraser in maaori")
 answer = input ()
 answer = answer .lower()
-if answer == "ahorore": 
+if answer == "poroporoaki": 
  print("you are correct")
 else:
   print(" sorry you are wrong")
-  
+
 print("kia ora " + n )
