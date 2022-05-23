@@ -42,5 +42,20 @@ if answer == "poroporoaki":
  print("you are correct")
 else:
   print(" sorry you are wrong")
-
+#i am making more question to my quiz
+print("what is high school  in maaori")
+answer = input ()
+answer = answer .lower()
+if answer == "kura tuarua": 
+ print("you are correct")
+else:
+  print(" sorry you are wrong")
+print("what is fraser high school  in maaori")
+answer = input ()
+answer = answer .lower()
+if answer == "kura tuarua fraser": 
+ print("you are correct")
+else:
+  print(" sorry you are wrong")
+  
 print("kia ora " + n )
