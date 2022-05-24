@@ -38,7 +38,7 @@ else:
 print("what is fraser in maaori")
 answer = input ()
 answer = answer .lower()
-if answer == "poroporoaki": 
+if answer == "Taniwharau": 
  print("you are correct")
 else:
   print(" sorry you are wrong")
@@ -46,14 +46,15 @@ else:
 print("what is high school  in maaori")
 answer = input ()
 answer = answer .lower()
-if answer == "kura tuarua": 
+if answer == "Kura Tuarua o": 
  print("you are correct")
 else:
   print(" sorry you are wrong")
 print("what is fraser high school  in maaori")
 answer = input ()
 answer = answer .lower()
-if answer == "kura tuarua fraser": 
+#it keeps saying that it is wrong
+if answer == "Kura Tuarua o Taniwharau": 
  print("you are correct")
 else:
   print(" sorry you are wrong")
