@@ -54,7 +54,7 @@ print("what is fraser high school  in maaori")
 answer = input ()
 answer = answer .lower()
 #it keeps saying that it is wrong
-if answer == "Kura Tuarua o Taniwharau": 
+if answer == "te Kura Tuarua o Taniwharau": 
  print("you are correct")
 else:
   print(" sorry you are wrong")
